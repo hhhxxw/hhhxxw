@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=一位热爱开源的后端开发者;探索全栈开发的无限可能;" alt="Typing SVG" />
 </p>
 
-- 👨‍💻 我是一名来自 **南京** 的 **后端开发者**。
+- 👨‍💻 我是一名来自 **南京邮电大学** 的 **后端开发者**。
 - 🌱 我目前正在深入学习 **[Redis，分布式]**。
 - 💬 如果你有任何关于 **[Spring Boot、MySQL、Redis...]** 的问题，欢迎随时与我交流。
 - 📫 如何联系我: **[3025731614@qq.com]**
