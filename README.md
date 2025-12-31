@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Graduate+Student+@+NTU;Focusing+on+Distributed+Systems;Exploring+AI+in+IoV)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Graduate+Student+@+NJUPT;Focusing+on+Distributed+Systems;Exploring+AI+in+IoV)](https://git.io/typing-svg)
 
   <h3>
     🌐 访问我的个人博客: <a href="http://hhhxxw.cloud/" target="_blank">hhhxxw.cloud</a>
