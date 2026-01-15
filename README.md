@@ -14,9 +14,6 @@
     <a href="mailto:3025731614@qq.com">
       <img src="https://img.shields.io/badge/Email-3025731614@qq.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="blog.csdn.net/hanxuewei666">
-      <img src="https://img.shields.io/badge/Blog-hhhxxw.cloud-critical?style=flat-square&logo=hugo&logoColor=white" alt="Blog" />
-    </a>
     <a href="http://hhhxxw.cloud/">
       <img src="https://img.shields.io/badge/Blog-hhhxxw.cloud-critical?style=flat-square&logo=hugo&logoColor=white" alt="Blog" />
     </a>
