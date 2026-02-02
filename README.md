@@ -7,17 +7,21 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Graduate+Student+@+NJUPT;Focusing+on+Distributed+Systems;Exploring+AI+in+IoV)](https://git.io/typing-svg)
 
   <h3>
-    🌐 访问我的个人博客: <a href="http://hhhxxw.cloud/" target="_blank">hhhxxw.cloud</a>
+    📚 访问我的博客
   </h3>
+  <p>
+    <a href="https://blog.csdn.net/hanxuewei666" target="_blank">
+      <img src="https://img.shields.io/badge/CSDN-主页-orange?style=for-the-badge&logo=c&logoColor=white" alt="CSDN" />
+    </a>
+    <a href="http://hhhxxw.cloud/" target="_blank">
+      <img src="https://img.shields.io/badge/个人博客-hhhxxw.cloud-blue?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog" />
+    </a>
+  </p>
 
   <p>
     <a href="mailto:3025731614@qq.com">
       <img src="https://img.shields.io/badge/Email-3025731614@qq.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="http://hhhxxw.cloud/">
-      <img src="https://img.shields.io/badge/Blog-hhhxxw.cloud-critical?style=flat-square&logo=hugo&logoColor=white" alt="Blog" />
-    </a>
-   
   </p>
 </div>
 
@@ -25,8 +29,9 @@
 
 ### 👨‍💻 关于我 (About Me)
 
-- 🔭 目前专注于**Java后端开发** 以及学习**大模型应用开发**。
-- ⚡ 兴趣: 算法 (LeetCode)、阅读源码、音乐。
+- 🔭 **专注**: 目前专注于 **Java 后端开发** 以及学习 **大模型应用开发 (LLM)**。
+- 📝 **记录**: 在 [CSDN](https://blog.csdn.net/hanxuewei666) 分享技术笔记，个人博客持续搭建中。
+- ⚡ **兴趣**: 算法 (LeetCode)、阅读底层源码、分布式系统设计。
 
 ---
 
@@ -72,5 +77,3 @@
     </td>
   </tr>
 </table>
-
----
